@@ -1,2 +1,19 @@
-# vue-Campus-headlines
-vue2+vant 移动端互联网新闻头条
+# demo
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
